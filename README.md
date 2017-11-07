@@ -1,4 +1,4 @@
-Form from https://github.com/ldn0x7dc/react-native-view-transformer
+Fork from https://github.com/ldn0x7dc/react-native-view-transformer
 
 # react-native-view-transformer
 
