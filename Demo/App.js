@@ -10,7 +10,7 @@ import {
   PixelRatio
 } from 'react-native';
 
-import ViewTransformer from 'react-native-view-transformer';
+import ViewTransformer from 'react-native-view-transformer-next';
 
 export default class App extends Component {
 
