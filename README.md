@@ -1,3 +1,5 @@
+Form from https://github.com/ldn0x7dc/react-native-view-transformer
+
 # react-native-view-transformer
 
  A pure JavaScript RN component that makes **ANY** views transformable using gestures like pinch, double tap or pull.
@@ -8,12 +10,12 @@
 
 ## Install
 
-`npm install --save react-native-view-transformer@latest`
+`npm install --save react-native-view-transformer-next@latest`
 
 ## Usage
 
 ```
-import ViewTransformer from 'react-native-view-transformer';
+import ViewTransformer from 'react-native-view-transformer-next';
 ...
 render() {
   return (
@@ -45,7 +47,7 @@ This component accepts following props:
 
 ## Transformable Image
 
-The most common case is to transform an image, or a photo, which is famous as a ***PhotoView***, or ***ImageViewer***, so I provide a dedicated component [**react-native-transformable-image**](https://github.com/ldn0x7dc/react-native-transformable-image)
+The most common case is to transform an image, or a photo, which is famous as a ***PhotoView***, or ***ImageViewer***, so I provide a dedicated component [**react-native-transformable-image-next**](https://github.com/rudin/react-native-transformable-image-next)
 
 
 
