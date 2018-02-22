@@ -301,7 +301,9 @@ export default class ViewTransformer extends React.Component {
     console.log('performDoubleTapUp...pivot=' + pivotX + ', ' + pivotY);
     let curScale = this.state.scale;
     let scaleBy;
-    if (curScale > (1 + this.props.maxScale) / 2) {
+
+    // Zoom out when already zoomed in
+    if (curScale > 1) {
       scaleBy = 1 / curScale;
     } else {
       scaleBy = this.props.maxScale / curScale;
