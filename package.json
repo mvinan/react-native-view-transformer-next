@@ -1,6 +1,6 @@
 {
   "name": "react-native-view-transformer-next",
-  "version": "0.0.30",
+  "version": "0.0.31",
   "description": "A pure JavaScript RN component that makes ANY views transformable using gestures like pinch, double tap or pull.",
   "main": "library/index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rudin/react-native-view-transformer-next.git"
+    "url": "git+https://github.com/mvinan/react-native-view-transformer-next.git"
   },
   "bugs": {
     "url": "https://github.com/rudin/react-native-view-transformer-next/issues"
